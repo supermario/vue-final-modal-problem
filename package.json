@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "vue": "^3.2.45",
+    "vue-final-modal": "^4.0.0-rc.2",
     "vue-router": "^4.1.6"
   },
   "devDependencies": {
